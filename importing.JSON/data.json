@@ -1,0 +1,9 @@
+{
+    "name" : "Zabaa",
+    "age" : 23,
+    "address" :{
+        "street" : "Obesekarapura",
+        "city" : "rajagiriya"
+    },
+    "language" : ["javascript" , "java" , "c#" , "C++" ,"python"]
+}
